@@ -18,6 +18,11 @@ chris@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
 pakatalk | main* | #43 Fix login redirect loop | S4.6 | ▓▓░░░░░░░░ 12%
 ```
 
+> **Issue number appears when:**
+> 1. Claude Code has been restarted after install
+> 2. You mention an issue in chat (`#43`, GitHub URL, or `Issue 43`)
+> 3. You are inside a git repository
+
 ## Features
 
 - **GitHub issue tracking** — mention an issue in chat and it appears in the statusline
@@ -82,6 +87,11 @@ chris@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
 ```
 pakatalk | main* | #43 Fix login redirect loop | S4.6 | ▓▓░░░░░░░░ 12%
 ```
+
+> **이슈 번호가 표시되는 조건:**
+> 1. 설치 후 Claude Code를 재시작했을 것
+> 2. 대화에서 이슈를 언급했을 것 (`#43`, GitHub URL, `이슈 43`)
+> 3. git 저장소 안에서 작업 중일 것
 
 ## 기능
 
