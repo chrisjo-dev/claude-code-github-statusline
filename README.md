@@ -8,8 +8,14 @@
 
 Claude Code statusline that automatically tracks your current GitHub issue.
 
+**Before**
 ```
-pakatalk | main* | #43 관리자 질문 뱅크 CR… | S4.6 | ▓▓░░░░░░░░ 20%
+wonsang@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
+```
+
+**After**
+```
+pakatalk | main* | #43 Fix login redirect loop | S4.6 | ▓▓░░░░░░░░ 12%
 ```
 
 ## Features
@@ -67,8 +73,14 @@ rm .claude/current-issue*
 
 현재 작업 중인 GitHub 이슈를 자동으로 Claude Code 상태바에 표시해주는 도구입니다.
 
+**Before**
 ```
-pakatalk | main* | #43 관리자 질문 뱅크 CR… | S4.6 | ▓▓░░░░░░░░ 20%
+wonsang@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
+```
+
+**After**
+```
+pakatalk | main* | #43 Fix login redirect loop | S4.6 | ▓▓░░░░░░░░ 12%
 ```
 
 ## 기능
