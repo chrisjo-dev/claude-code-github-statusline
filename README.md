@@ -10,7 +10,7 @@ Claude Code statusline that automatically tracks your current GitHub issue.
 
 **Before**
 ```
-wonsang@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
+chris@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
 ```
 
 **After**
@@ -75,7 +75,7 @@ rm .claude/current-issue*
 
 **Before**
 ```
-wonsang@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
+chris@MacBook:pakatalk | main | Claude Sonnet 4.6 | ctx:12%
 ```
 
 **After**
